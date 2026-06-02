@@ -55,3 +55,21 @@ If you want to run this project locally on your machine, follow these simple ste
 ```bash
 git clone [https://github.com/Biggan2003/FaunaVision-ML-Deep-Learning-Based-Cat-vs-Dog-Classifier.git](https://github.com/Biggan2003/FaunaVision-ML-Deep-Learning-Based-Cat-vs-Dog-Classifier.git)
 cd FaunaVision-ML-Deep-Learning-Based-Cat-vs-Dog-Classifier
+```
+---
+
+## 🔑 Developer's Notebook ............
+<details>
+<summary><b>📌 Click here to view Project Credentials & Training Logs (Internal Use Only)</b></summary>
+
+### 📓 Training Environment
+- **Kaggle Notebook Link:** https://www.kaggle.com/code/gmbiggan/deep-learning-classification-cat-dog
+- **Dataset Source:** https://www.kaggle.com/datasets/tongpython/cat-and-dog
+
+### 🚀 Deployment Details (Hugging Face)
+- **Registered Email:** gmb@gmail id theke register kora
+- **Hugging Face Username:** gmb amr bektigoto id theke
+- **Space Repository Link:** https://huggingface.co/spaces/bigganbiggan/FaunaVision-ML
+
+</details>
+
