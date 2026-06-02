@@ -12,6 +12,8 @@
 
 ### 🚀 Live Demonstration
 🎯 **Experience the Web App Live:** [FaunaVision ML on Hugging Face Spaces](https://huggingface.co/spaces/bigganbiggan/FaunaVision-ML) 
+### 📓 Training Environment
+- **Kaggle Notebook Link:** https://www.kaggle.com/code/gmbiggan/deep-learning-classification-cat-dog
 
 
 ---
